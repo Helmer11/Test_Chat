@@ -1,0 +1,23 @@
+.header {
+  background-color: rgb(10, 66, 112);
+  height: 50px;
+  color: #ffff;
+  font-family:'Times New Roman', Times, serif ;
+}
+
+
+.header h2 {
+  margin-left: 50px;
+}
+
+.grupo {
+  margin-left: 700px;
+  padding-top: 20px;
+}
+
+.grupo u {
+    list-style: decimal;
+}
+.grupo u li {
+  list-style: square inside;
+}

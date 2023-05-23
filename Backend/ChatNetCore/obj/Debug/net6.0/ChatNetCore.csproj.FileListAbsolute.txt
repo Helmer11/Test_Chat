@@ -30,3 +30,5 @@ C:\practicas_y\Test_Chat\Backend\ChatNetCore\obj\Debug\net6.0\refint\ChatNetCore
 C:\practicas_y\Test_Chat\Backend\ChatNetCore\obj\Debug\net6.0\ChatNetCore.pdb
 C:\practicas_y\Test_Chat\Backend\ChatNetCore\obj\Debug\net6.0\ChatNetCore.genruntimeconfig.cache
 C:\practicas_y\Test_Chat\Backend\ChatNetCore\obj\Debug\net6.0\ref\ChatNetCore.dll
+C:\practicas_y\Test_Chat\Backend\ChatNetCore\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\practicas_y\Test_Chat\Backend\ChatNetCore\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll

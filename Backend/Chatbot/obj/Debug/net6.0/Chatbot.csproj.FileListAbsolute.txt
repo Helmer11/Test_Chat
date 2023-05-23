@@ -1,0 +1,15 @@
+C:\practicas_y\Test_Chat\Backend\Chatbot\bin\Debug\net6.0\Chatbot.exe
+C:\practicas_y\Test_Chat\Backend\Chatbot\bin\Debug\net6.0\Chatbot.deps.json
+C:\practicas_y\Test_Chat\Backend\Chatbot\bin\Debug\net6.0\Chatbot.runtimeconfig.json
+C:\practicas_y\Test_Chat\Backend\Chatbot\bin\Debug\net6.0\Chatbot.dll
+C:\practicas_y\Test_Chat\Backend\Chatbot\bin\Debug\net6.0\Chatbot.pdb
+C:\practicas_y\Test_Chat\Backend\Chatbot\obj\Debug\net6.0\Chatbot.csproj.AssemblyReference.cache
+C:\practicas_y\Test_Chat\Backend\Chatbot\obj\Debug\net6.0\Chatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\practicas_y\Test_Chat\Backend\Chatbot\obj\Debug\net6.0\Chatbot.AssemblyInfoInputs.cache
+C:\practicas_y\Test_Chat\Backend\Chatbot\obj\Debug\net6.0\Chatbot.AssemblyInfo.cs
+C:\practicas_y\Test_Chat\Backend\Chatbot\obj\Debug\net6.0\Chatbot.csproj.CoreCompileInputs.cache
+C:\practicas_y\Test_Chat\Backend\Chatbot\obj\Debug\net6.0\Chatbot.dll
+C:\practicas_y\Test_Chat\Backend\Chatbot\obj\Debug\net6.0\refint\Chatbot.dll
+C:\practicas_y\Test_Chat\Backend\Chatbot\obj\Debug\net6.0\Chatbot.pdb
+C:\practicas_y\Test_Chat\Backend\Chatbot\obj\Debug\net6.0\Chatbot.genruntimeconfig.cache
+C:\practicas_y\Test_Chat\Backend\Chatbot\obj\Debug\net6.0\ref\Chatbot.dll

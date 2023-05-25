@@ -5,9 +5,9 @@ VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatNetCore", "ChatNetCore\ChatNetCore.csproj", "{5BA3822B-1CE2-4B0D-A8C2-805AEF2CB638}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaUnitaria", "PruebaUnitaria\PruebaUnitaria.csproj", "{B67E4AEF-4FFF-40BF-9850-8E8A1D5DC4BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaUnitaria", "PruebaUnitaria\PruebaUnitaria.csproj", "{B67E4AEF-4FFF-40BF-9850-8E8A1D5DC4BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chatbot", "Chatbot\Chatbot.csproj", "{B0EF3DCB-D3C0-49BC-A618-4268390FF574}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatbotMensaje", "Chatbot\ChatbotMensaje.csproj", "{B0EF3DCB-D3C0-49BC-A618-4268390FF574}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

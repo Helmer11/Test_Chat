@@ -1,6 +1,7 @@
 ﻿using ChatNetCore.Interfaces;
 using ChatNetCore.Models;
 using Microsoft.AspNetCore.Mvc;
+using ChatbotMensaje.Interfaces;
 
 namespace ChatNetCore.Controllers
 {
@@ -9,11 +10,12 @@ namespace ChatNetCore.Controllers
     public class ChatController : Controller
     {
         private readonly IChat _chat;
-
+        private readonly IRabitMQMensajeria _mensaje;
 
         public ChatController()
         {
             _chat = new HubChat();
+            _mensaje  = new MensajeRabbitMQ();
         }
 
         [HttpGet]
@@ -37,6 +39,8 @@ namespace ChatNetCore.Controllers
         {
             try
             {
+                _mensaje.SendProductMessage<string>(mensaje)
+
                 var _mensaje = _chat.MensajeEnviado(sala, user, mensaje);
 
                 return new JsonResult(_mensaje);

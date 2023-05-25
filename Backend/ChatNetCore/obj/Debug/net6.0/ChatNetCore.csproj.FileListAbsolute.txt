@@ -1,3 +1,6 @@
+C:\practicas_y\Test_Chat\Backend\ChatNetCore\bin\Debug\net6.0\ChatbotMensaje.deps.json
+C:\practicas_y\Test_Chat\Backend\ChatNetCore\bin\Debug\net6.0\ChatbotMensaje.runtimeconfig.json
+C:\practicas_y\Test_Chat\Backend\ChatNetCore\bin\Debug\net6.0\ChatbotMensaje.exe
 C:\practicas_y\Test_Chat\Backend\ChatNetCore\bin\Debug\net6.0\appsettings.Development.json
 C:\practicas_y\Test_Chat\Backend\ChatNetCore\bin\Debug\net6.0\appsettings.json
 C:\practicas_y\Test_Chat\Backend\ChatNetCore\bin\Debug\net6.0\ChatNetCore.exe
@@ -6,9 +9,15 @@ C:\practicas_y\Test_Chat\Backend\ChatNetCore\bin\Debug\net6.0\ChatNetCore.runtim
 C:\practicas_y\Test_Chat\Backend\ChatNetCore\bin\Debug\net6.0\ChatNetCore.dll
 C:\practicas_y\Test_Chat\Backend\ChatNetCore\bin\Debug\net6.0\ChatNetCore.pdb
 C:\practicas_y\Test_Chat\Backend\ChatNetCore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\practicas_y\Test_Chat\Backend\ChatNetCore\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\practicas_y\Test_Chat\Backend\ChatNetCore\bin\Debug\net6.0\RabbitMQ.Client.dll
 C:\practicas_y\Test_Chat\Backend\ChatNetCore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\practicas_y\Test_Chat\Backend\ChatNetCore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\practicas_y\Test_Chat\Backend\ChatNetCore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\practicas_y\Test_Chat\Backend\ChatNetCore\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\practicas_y\Test_Chat\Backend\ChatNetCore\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\practicas_y\Test_Chat\Backend\ChatNetCore\bin\Debug\net6.0\ChatbotMensaje.dll
+C:\practicas_y\Test_Chat\Backend\ChatNetCore\bin\Debug\net6.0\ChatbotMensaje.pdb
 C:\practicas_y\Test_Chat\Backend\ChatNetCore\obj\Debug\net6.0\ChatNetCore.csproj.AssemblyReference.cache
 C:\practicas_y\Test_Chat\Backend\ChatNetCore\obj\Debug\net6.0\ChatNetCore.GeneratedMSBuildEditorConfig.editorconfig
 C:\practicas_y\Test_Chat\Backend\ChatNetCore\obj\Debug\net6.0\ChatNetCore.AssemblyInfoInputs.cache
@@ -30,5 +39,3 @@ C:\practicas_y\Test_Chat\Backend\ChatNetCore\obj\Debug\net6.0\refint\ChatNetCore
 C:\practicas_y\Test_Chat\Backend\ChatNetCore\obj\Debug\net6.0\ChatNetCore.pdb
 C:\practicas_y\Test_Chat\Backend\ChatNetCore\obj\Debug\net6.0\ChatNetCore.genruntimeconfig.cache
 C:\practicas_y\Test_Chat\Backend\ChatNetCore\obj\Debug\net6.0\ref\ChatNetCore.dll
-C:\practicas_y\Test_Chat\Backend\ChatNetCore\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\practicas_y\Test_Chat\Backend\ChatNetCore\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
